@@ -1,0 +1,52 @@
+body{
+    font-family: "poppins",sans-serif;
+    background-color: azure;
+    margin-left: 15px;
+}
+
+h1{
+    margin-left: 15px;
+    color: orange;
+}
+
+.title{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 15px;
+}
+
+span{
+    color: darkblue;
+}
+
+#foot{
+    text-align: right;
+    color: darkviolet;
+    margin-top: 50px;
+}
+
+img{
+    width: 350px;
+    filter: brightness(120%);
+    float: left;
+    margin-right: 20px;
+}
+
+.card1{
+    float: left;
+    width: 48%;
+}
+
+.card2{
+    float: right;
+    width: 50%;
+    margin-left: 10px;
+}
+
+.main{
+    display: inline-block;
+}
+
+p{
+    text-align: justify;
+}
