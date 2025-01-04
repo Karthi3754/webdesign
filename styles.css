@@ -50,3 +50,15 @@ img{
 p{
     text-align: justify;
 }
+
+@media(max-width: 500px){
+    .main{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        margin-right: 0px;
+    }
+    #foot{
+        text-align: left;
+    }
+}
